@@ -18,5 +18,5 @@ I am currently a sophomore in <b>Computer Science & Engineering</b> at Techno In
 - 📫 How to reach me ritikabera1204@gmail.com
 - 😄 Pronouns: ...-->
 ● ⚡ Fun fact <b>tooo much talkative person with like minded people<b>
-● 
+
 
