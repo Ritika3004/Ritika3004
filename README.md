@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started:
 -->
-I am currently a sophomore in <b>Computer Science & Engineering<b> at Techno International Newtown(Formally known as Techno India College of Technology. I am 18 years old.
+I am currently a sophomore in <b>Computer Science & Engineering</b> at Techno International Newtown(Formally known as Techno India College of Technology. I am 18 years old.
 <!--
 - 🔭 I’m currently working on ...-->
 ● 🌱 I’m currently learning Python with data science.
