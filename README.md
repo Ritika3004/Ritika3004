@@ -4,15 +4,12 @@
 <h3 style="color:blue;">You may know me as Ritika<br>(she/her)</h3>
 <hr>
 
-<!-- **Ritika3004/Ritika3004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile,
+ **Ritika3004/Ritika3004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile,
 
 Here are some ideas to get you started:
--->
 I am currently a sophomore in <b>Computer Science & Engineering</b> at Techno International Newtown(Formally known as Techno India College of Technology. I am 18 years old.
-<!--
 - 🔭 I’m currently working on ...-->
 ● 🌱 I’m currently learning Python with data science.
-<!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -20,9 +17,9 @@ I am currently a sophomore in <b>Computer Science & Engineering</b> at Techno In
 - 😄 Pronouns: ...-->
 ● ⚡ Fun fact <b>tooo much talkative person with like minded people<b>
 -->
-<h2 style="text-align:center;">Hello!!👋</h2>
+<h1 style="text-align:center;">Hello!!👋</h1>
 <h3 align="center">You may know me as Ritika (she/her)</h3>
-
+<p>I am currently a sophomore in <b>Computer Science & Engineering</b> at Techno International Newtown(Formally known as Techno India College of Technology. I am 18 years old.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritika3004&label=Profile%20views&color=0e75b6&style=flat" alt="ritika3004" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
