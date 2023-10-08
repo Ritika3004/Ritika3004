@@ -18,4 +18,20 @@ I am currently a sophomore in <b>Computer Science & Engineering</b> at Techno In
 - 📫 How to reach me ritikabera1204@gmail.com
 - 😄 Pronouns: ...-->
 ● ⚡ Fun fact <b>tooo much talkative person with like minded people<b>
-<a href="file:///C:/Users/ritik/OneDrive/Desktop/html%20doc%201/amazon%20clone.html">Ritika</a>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="traficsignal.css">
+</head>
+<body>
+    <div id="white">
+        <div id="red"></div><br><br>
+        <div id="yellow"></div><br><br>
+        <div id="green"></div>
+    </div>
+    <div id="black"></div>
+</body>
+</html>
