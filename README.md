@@ -1,6 +1,7 @@
 
 <h1 style="text-align:center;">Hello!!👋</h1>
-<h3 align="center">You may know me as Ritika (she/her)</h3>
+<h3 >You may know me as Ritika </h3>
+<h3>(she/her)</h3>
 <p>I am currently a sophomore in <b>Computer Science & Engineering</b> at Techno International Newtown(Formally known as Techno India College of Technology. I am 18 years old.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritika3004&label=Profile%20views&color=0e75b6&style=flat" alt="ritika3004" /> </p>
 
