@@ -7,7 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Python with data science**
+- 🌱 I’m currently learning **DSA with Python**
+- 💬  Ask me about **Python, Data Science**
 
 - 📫 How to reach me **ritikabera1204@gmail.com**
 
