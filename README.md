@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **DSA with Python**
 
-- 📝 I regularly write articles on [https://medium.com/@ritikabera1204](https://medium.com/@ritikabera1204)
+- 📝 I write articles on [https://medium.com/@ritikabera1204](https://medium.com/@ritikabera1204)
 
 - 💬 Ask me about **Python, Data Science**
 
-- 📫 How to reach me **ritikabera1204@gmail.com**
+- 📫 Mail ID **ritikabera1204@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
