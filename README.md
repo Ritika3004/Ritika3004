@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **DSA with Python**
 
-- 📝 I write articles on [https://medium.com/@ritikabera1204](https://medium.com/@ritikabera1204)
+- 📝 I regularly write articles on [https://medium.com/@ritikabera1204](https://medium.com/@ritikabera1204)
 
 - 💬 Ask me about **Python, Data Science**
 
-- 📫 Mail ID **ritikabera1204@gmail.com**
+- 📫 How to reach me **ritikabera1204@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,5 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritika3004&show_icons=true&locale=en" alt="ritika3004" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritika3004&" alt="ritika3004" /></p>
-
 
