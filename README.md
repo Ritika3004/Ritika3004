@@ -28,5 +28,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritika3004&show_icons=true&locale=en" alt="ritika3004" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritika3004&" alt="ritika3004" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritika3004" alt="ritika3004" /></p>
+
 
